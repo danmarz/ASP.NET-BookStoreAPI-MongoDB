@@ -1,0 +1,14 @@
+{
+  "BookStoreDatabase": {
+    "ConnectionString": "mongodb+srv://<USER>:<PASS>@learning-mongo.z8au7.mongodb.net/BookStore?retryWrites=true&w=majority",
+    "DatabaseName": "BookStore",
+    "BooksCollectionName": "Books"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
